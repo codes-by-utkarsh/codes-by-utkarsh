@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎓 Computer Science student specializiation in Cyber Security and Digital Forensics. <br>Passionate about Ethical Hacking, Digital forensics, and safeguarding digital assets. <br>Proficient in languages like C++, Java, HTML, CSS, JavaScript, Kotlin, and Python. <br>Always eager to contribute to open-source projects and enhance my skill set in Cyber Security and Development.
 
 
