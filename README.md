@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Utkarsh Srivastava`](httsp://www.linkedin.com/in/0xutkarsh)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **[`Utkarsh Srivastava`](https://www.linkedin.com/in/0xutkarsh)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 Also, I am a Full Stack Backend heavy Developer with expertise in Node, Express, Springboot, Microservices. Being a security guy, I possess an upperhand over those vibe coders, making sure the safety and security of the code. The security configuration are up to the mark if handled by me.
 
 
