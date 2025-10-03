@@ -1,7 +1,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p> -->
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThqeDlnamd1bWd3amVua3Vrcnc2OXAydTlzenp1N2ZvN2QzYXR3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRSmmnFLNbbxtfgeJr/giphy.gif
+<p align="center"><img src="[https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThqeDlnamd1bWd3amVua3Vrcnc2OXAydTlzenp1N2ZvN2QzYXR3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RRSmmnFLNbbxtfgeJr/giphy.gif)" width="100%" height="auto"/></p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+My+Profile;I+am+Utkarsh+Srivastava" alt="Typing SVG" /></a>
